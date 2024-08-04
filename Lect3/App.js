@@ -24,7 +24,7 @@ const Title =()=>(
 // Component Composition
 const HeadingComponent=()=> (
 <div id="Container">
-  {123439394}
+  <h1>{"Yuppppppppp"}</h1>
   {Title()}
   <Title/>
   <Title></Title>
